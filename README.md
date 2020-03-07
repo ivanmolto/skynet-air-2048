@@ -1,7 +1,7 @@
 # SKYNETAIR 2048
 
 This is a derivative work based on Gabriele Cirulli's 2048 and VoltAir made just for fun and hosted on siasky.net
-Let's build a free internet.
+*Let's build a free internet*.
 
 
 ## Skynet Dapp URL
